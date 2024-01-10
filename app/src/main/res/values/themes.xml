@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BotonMisterioso" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Cambia el color de la barra de estado y de navegación -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:navigationBarColor">@color/black</item>
+    </style>
+
+    <style name="Theme.BotonMisterioso" parent="Base.Theme.BotonMisterioso" />
+</resources>

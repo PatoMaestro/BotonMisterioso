@@ -21,6 +21,7 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        android:contentDescription="Presiona para iniciar la magia"
         app:layout_constraintVertical_bias="0.5" />
 
     <TextView
